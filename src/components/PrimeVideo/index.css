@@ -1,0 +1,13 @@
+.movie-item {
+  display: flex;
+  flex-direction: row;
+}
+.website {
+  height: 30%;
+  width: 80%;
+}
+.bg-container {
+  background-color: black;
+  height: 100%;
+  background-size: cover;
+}
